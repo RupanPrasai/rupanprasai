@@ -1,3 +1,5 @@
+<img src="https://rupanprasai.com/_astro/rupan-prasai-formal-02.BvUDkPgU.webp" width="400" alt="Rupan Prasai portrait">
+
 # Rupan Prasai
 
 Rupan Prasai is a software engineer and computer science graduate student based in the United States.
