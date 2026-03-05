@@ -1,16 +1,34 @@
-## Hi there 👋
+# Rupan Prasai
 
-<!--
-**RupanPrasai/rupanprasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rupan Prasai is a software engineer and computer science graduate student based in the United States.
 
-Here are some ideas to get you started:
+This GitHub profile contains software projects, experiments, and learning work related to programming, computer science, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am interested in software engineering, system design, and long-term technical learning. My work focuses on building software projects, studying computer science concepts, and continuously improving technical skills.
+
+## Links
+
+Website  
+https://rupanprasai.com
+
+Photo Gallery  
+https://rupanprasai.com/photos
+
+Medium  
+https://medium.com/@rupanprasai
+
+YouTube  
+https://youtube.com/@rupanprasai
+
+LinkedIn  
+https://linkedin.com/in/rupanprasai
+
+## Projects
+
+More projects and experiments will be added here over time.
+
+---
+
+Rupan Prasai
