@@ -2,9 +2,9 @@
 
 <img src="https://rupanprasai.com/_astro/rupan-prasai-formal-02.BvUDkPgU.webp" width="400" alt="Rupan Prasai portrait">
 
-Rupan Prasai is a software engineer and computer science graduate student based in the United States.
+Rupan Prasai is a Full Stack Java Developer based in the United States with experience building backend systems, REST APIs, and cloud-native applications.
 
-This GitHub profile contains software projects, experiments, and learning work related to programming, computer science, and software development.
+This GitHub profile contains projects and work focused on backend development, system design, and scalable software architecture. The primary stack includes Java (Spring Boot), Node.js, AWS, and MongoDB, with an emphasis on microservices, API development, and production-ready systems.
 
 ## About
 
